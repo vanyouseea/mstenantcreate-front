@@ -1,14 +1,27 @@
-# 自动创建微软租户
+## Available Scripts
 
-### 必要的资源
-1. 服务器或者自己的电脑
-2. 一个有有效订阅的微软账号（不管是管理员还是子号都可）  
+In the project directory, you can run:
 
-### 基于Vue2的前端  
-https://github.com/vanyouseea/mstenantcreate-front/
+### `npm install`
 
-### 基于React的前端  
-https://github.com/vanyouseea/mstcreate-fe/
+Install the project to local
 
-### 使用方法  
-部署好之后访问localhost:8010按照要求进行即可  
+### `npm run serve`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:8080) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+
+### 这个是后端  
+https://github.com/vanyouseea/msTenantCreate  
